@@ -25,13 +25,4 @@
 	</dependency>
   </dependencies>
   
-  <distributionManagement>
-    <repository>
-      <uniqueVersion>false</uniqueVersion>
-      <id>FlexonFirstMaven</id>
-      <name>FlexonFirstMaven Repository</name>
-      <url>https://github.com/emily-l-i/Flexon-First-Maven/tree/master/MyMavenProject</url>
-      <layout>default</layout>
-    </repository>
-  </distributionManagement>
 </project>
